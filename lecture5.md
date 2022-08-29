@@ -1,4 +1,4 @@
-<!-- Putting it all together
+Putting it all together
 What is the single responsibility principle and how does it apply to components?
 
 a component should ideally only do one thing. If it ends up growing, it should be decomposed into smaller subcomponents.
@@ -30,7 +30,8 @@ I couldn't understand it
 Explain how either map or reduce operates, with regards to higher-order functions.
 
 I couldn't understand it. -->
-<!-- Things I want to know more about
+ Things I want to know more about
 Explore the greaterThan function
 
-Explain how either map or reduce operates, with regards to higher-order functions. -->
+Explain how either map or reduce operates, with regards to higher-order functions.
+///
