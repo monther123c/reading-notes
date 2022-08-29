@@ -1,4 +1,4 @@
-<!-- Based on the diagram, what happens first, the ‘render’ or the ‘componentDidMount’?
+Based on the diagram, what happens first, the ‘render’ or the ‘componentDidMount’?
 
 “render” happens first
 
@@ -30,4 +30,4 @@ What are some examples of things that we could store in state?
 
 If you need to re-render and update your application or if you want to change something in your application you should store that in state
 
-One of the example is if you have a count in your application, you need to re-render and update it, so you should store it in state -->
+One of the example is if you have a count in your application, you need to re-render and update it, so you should store it in state
