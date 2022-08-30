@@ -1,4 +1,4 @@
-<!-- What does .map() return?
+What does .map() return?
 
 It returns array
 
@@ -49,4 +49,4 @@ Const obj1 ={name : “ahmad”}
 
 Const obj2 ={age : 22}
 
-Const obj3 ={...obj1 , …obj2} -->
+Const obj3 ={...obj1 , …obj2}

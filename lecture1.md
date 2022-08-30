@@ -1,4 +1,4 @@
-<!-- What is a “component”?
+What is a “component”?
 
 Component is a package containing methods, events, and properties used to divide the design into separated parts and all of components form the final design and each component responsible to do specific functionality. Also it divides the problem into subproblems so you can easily handle it.
 
@@ -33,4 +33,5 @@ First you have to define an attribute and its value with interpolation {}, then 
 
 What is the flow of props?
 
-The directional flow of data props is one way directional flow (from parent to child). -->
+The directional flow of data props is one way directional flow (from parent to child).
+////
