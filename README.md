@@ -26,3 +26,5 @@ this is my information about the classes
 7.[lecture7](/lecture7.md)
 
 8.[lecture8](/lecture8.md)
+
+8.[lecture11](/lecture11.md)
