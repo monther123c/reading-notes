@@ -33,5 +33,7 @@ this is my information about the classes
 
 11 .[lecture13](/lecture13.md)
 
+12 .[lecture15](/lecture15.md)
+
 
 
