@@ -31,4 +31,7 @@ this is my information about the classes
 
 10 .[lecture12](/lecture12.md)
 
+11 .[lecture13](/lecture13.md)
+
+
 
