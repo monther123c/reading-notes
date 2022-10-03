@@ -1,4 +1,10 @@
 ## reading-notes
+## Notes for Pre-class, This page is about what we will take in the JS classes.
+
+### Code 102 - Intro to Software Development
+### Code 201 - Foundations of Software Development
+### Code 301 - Intermediate Software Development
+### Code 401 - Advanced-Python Software Development
 ---
 This website is about my notes and observation in each class in this course "301"
 ---
@@ -34,6 +40,13 @@ this is my information about the classes
 11 .[lecture13](/lecture13.md)
 
 12 .[lecture15](/lecture15.md)
+
+-----
+# python_401
+
+1.[class1](/code-401-python.md)
+
+
 
 
 
