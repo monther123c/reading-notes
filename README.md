@@ -44,7 +44,10 @@ this is my information about the classes
 -----
 # python_401
 
-1.[class1](/code-401-python.md)
+1. [class1](/code-401-python/class1.md)
+2. [class2](/code-401-python/class2.md)
+
+
 
 
 
