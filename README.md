@@ -46,6 +46,7 @@ this is my information about the classes
 
 1. [class1](/code-401-python/class1.md)
 2. [class2](/code-401-python/class2.md)
+3. [class3](/code-401-python/class3.md)
 
 
 
