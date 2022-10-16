@@ -50,6 +50,7 @@ this is my information about the classes
 4. [class4](/code-401-python/class4.md)
 5. [class5](/code-401-python/class5.md)
 6. [class6](/code-401-python/class6.md)
+7. [class7](/code-401-python/class7.md)
 
 
 
