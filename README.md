@@ -53,7 +53,8 @@ this is my information about the classes
 7. [class7](/code-401-python/class7.md)
 8. [class8](/code-401-python/class8.md)
 9. [class9 linkedList](/code-401-python/class9.md)
-9. [class10 LinearRegressions](/code-401-python/class10.md)
+10. [class10 LinearRegressions](/code-401-python/class10.md)
+11. [class11 DataVisualization](/code-401-python/class11.md)
 
 
 
