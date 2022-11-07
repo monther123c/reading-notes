@@ -59,7 +59,34 @@ this is my information about the classes
 13. [class13 Serverless Functions](/code-401-python/class13.md)
 14. [class14 web scraping](/code-401-python/class14.md)
 15. [class15 Tree](/code-401-python/class15.md)
-15. [class16 Cryptography](/code-401-python/class16.md)
+16. [class16 Cryptography](/code-401-python/class16.md)
+17. [class17 Automation](/code-401-python/class17.md)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
