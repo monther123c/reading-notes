@@ -61,7 +61,8 @@ this is my information about the classes
 15. [class15 Tree](/code-401-python/class15.md)
 16. [class16 Cryptography](/code-401-python/class16.md)
 17. [class17 Automation](/code-401-python/class17.md)
-17. [class18 Django](/code-401-python/class18.md)
+18. [class18 Django](/code-401-python/class18.md)
+19. [class19 Django Models](/code-401-python/class19.md)
 
 
 
