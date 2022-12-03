@@ -63,6 +63,7 @@ this is my information about the classes
 17. [class17 Automation](/code-401-python/class17.md)
 18. [class18 Django](/code-401-python/class18.md)
 19. [class19 Django Models](/code-401-python/class19.md)
+20. [class20 Django CRUD and Forms](/code-401-python/class20.md)
 
 
 
