@@ -64,6 +64,8 @@ this is my information about the classes
 18. [class18 Django](/code-401-python/class18.md)
 19. [class19 Django Models](/code-401-python/class19.md)
 20. [class20 Django CRUD and Forms](/code-401-python/class20.md)
+21. [class21 Django Custom User](/code-401-python/class21.md)
+
 
 
 
