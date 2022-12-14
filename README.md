@@ -67,7 +67,8 @@ this is my information about the classes
 21. [class21 Django Custom User](/code-401-python/class21.md)
 22. [class22 Hashtabels](/code-401-python/class22.md)
 23. [class23 Docker](/code-401-python/class23.md)
-24. [class23 DRF Permissions](/code-401-python/class24.md)
+24. [class24 DRF Permissions](/code-401-python/class24.md)
+25. [class25 Graphs](/code-401-python/class25.md)
 
 
 
