@@ -70,6 +70,7 @@ this is my information about the classes
 24. [class24 DRF Permissions](/code-401-python/class24.md)
 25. [class25 Graphs](/code-401-python/class25.md)
 26. [class26 Authentication & Production Server](/code-401-python/class26.md)
+27. [class27 API Deployment](/code-401-python/class27.md)
 
 
 
