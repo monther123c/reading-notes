@@ -72,6 +72,7 @@ this is my information about the classes
 26. [class26 Authentication & Production Server](/code-401-python/class26.md)
 27. [class27 API Deployment](/code-401-python/class27.md)
 28. [class28 React Review](/code-401-python/class28.md)
+29. [class29 Intro to Next.js](/code-401-python/class29.md)
 
 
 
