@@ -75,6 +75,7 @@ this is my information about the classes
 29. [class29 Intro to Next.js](/code-401-python/class29.md)
 30. [class30 Next- Forms and Conditional Rendering](/code-401-python/class30.md)
 
+31. [class31 Context API ](/code-401-python/class31.md)
 
 
 
